@@ -1,4 +1,4 @@
-## Add users in below formats:
+## addusers in this format:
 #user:CL:password
-#user:CR:encrypted_password
-username:CL:password
+##see for documentation: http://www.3proxy.ru/howtoe.asp#USERS
+username:CL:strongpassword
