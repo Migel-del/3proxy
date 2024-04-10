@@ -1,4 +1,5 @@
 version=0.9.4
+apt install nano
 apt-get update && apt-get -y upgrade
 apt-get install gcc make git -y
 wget --no-check-certificate -O 3proxy-${version}.tar.gz https://github.com/z3APA3A/3proxy/archive/${version}.tar.gz
